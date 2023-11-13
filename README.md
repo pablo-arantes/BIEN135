@@ -6,11 +6,12 @@ This repo contains jupyter notebooks and the PDF of the lecture.
 
 **Expert Lecture: Molecular Dynamics Simulations** (October 25th 2022)
 
-Slides: https://github.com/pablo-arantes/BIEN135/blob/13907600e98ba888cf5ee6da69447f6899b812d0/Expert_Lecture_MD_Pablo.pdf
-https://github.com/pablo-arantes/BIEN135/raw/main/Expert_Lecture_MD_Pablo.pdf
+Slides: https://github.com/pablo-arantes/BIEN135/raw/main/Expert_Lecture_MD_Pablo.pdf
+
 Notebook: https://colab.research.google.com/github/pablo-arantes/BIEN135/blob/main/MD_lecture_Pablo.ipynb
 
 **Expert Lecture: Molecular Dynamics (MD) Simulations of CRISPR-Cas9 systems** (November 14th 2023)
 
 Slides: https://github.com/pablo-arantes/BIEN135/raw/main/Lecture_MD_Cas9_systems.pdf
+
 Notebook: https://colab.research.google.com/github/pablo-arantes/BIEN135/blob/main/MD_lecture_Pablo.ipynb
