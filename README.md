@@ -14,4 +14,4 @@ Notebook: https://colab.research.google.com/github/pablo-arantes/BIEN135/blob/ma
 
 Slides: https://github.com/pablo-arantes/BIEN135/raw/main/Lecture_MD_Cas9_systems.pdf
 
-Notebook: https://colab.research.google.com/github/pablo-arantes/BIEN135/blob/main/MD_lecture_Pablo.ipynb
+Notebook: https://colab.research.google.com/github/pablo-arantes/BIEN135/blob/main/Lecture_BIEN135.ipynb
